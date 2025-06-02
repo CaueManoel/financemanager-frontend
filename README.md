@@ -2,8 +2,6 @@
 
 FinanceManager é uma aplicação web fullstack para gerenciamento de finanças pessoais, permitindo que você adicione suas receitas e despesas mensais, com o cálculo automático do dinheiro restante, total de receitas e total de despesas.
 
-Este README refere-se ao projeto como um todo, englobando tanto o frontend quanto o backend.
-
 ---
 
 ## 🔍 Visão Geral
@@ -27,14 +25,11 @@ A aplicação FinanceManager é projetada para simplificar o controle financeiro
 
 ## 🖼️ Demonstrações
 
-*(Aqui você pode adicionar screenshots da sua aplicação quando estiverem disponíveis)*
+**Tela de login:**
+![Screenshot_1](https://github.com/user-attachments/assets/53725c6a-4dd0-445e-ac08-fd1e3420f8c3)
 
-**Exemplo de Tela de Lançamentos:**
-`![Screenshot_1](https://github.com/user-attachments/assets/53725c6a-4dd0-445e-ac08-fd1e3420f8c3)
-
-
-**Exemplo de Tela de Resumo Mensal:**
-`[Placeholder para Screenshot do Resumo Mensal]`
+**Tela do gerenciador:**
+![Screenshot_2](https://github.com/user-attachments/assets/6b10fe1b-ea87-4412-85b9-25324cbe15e0)
 
 ---
 
@@ -46,6 +41,6 @@ A aplicação FinanceManager é projetada para simplificar o controle financeiro
 ### Backend
 * Java
 * Spring Boot
-* Spring Data JPA (Sugestão, se estiver usando)
-* *NomeDoBancoDeDados* (Ex: H2, PostgreSQL, MySQL - Especifique qual está usando)
-* Maven (ou Gradle)
+* Spring Data JPA
+* MySQL
+* Maven
