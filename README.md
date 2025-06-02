@@ -29,7 +29,7 @@ A aplicação FinanceManager é projetada para simplificar o controle financeiro
 ![Screenshot_1](https://github.com/user-attachments/assets/53725c6a-4dd0-445e-ac08-fd1e3420f8c3)
 
 **Tela do gerenciador:**
-![Screenshot_2](https://github.com/user-attachments/assets/6b10fe1b-ea87-4412-85b9-25324cbe15e0)
+![Screenshot_3](https://github.com/user-attachments/assets/c3eff44e-94ce-4bce-af5a-b1c5331da05d)
 
 ---
 
