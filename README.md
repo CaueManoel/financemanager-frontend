@@ -1,4 +1,4 @@
-💹 **FinanceManager**
+## 💹 **FinanceManager**
 
 FinanceManager é uma aplicação web fullstack para gerenciamento de finanças pessoais, permitindo que você adicione suas receitas e despesas mensais, com o cálculo automático do dinheiro restante, total de receitas e total de despesas.
 
