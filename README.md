@@ -30,7 +30,8 @@ A aplicação FinanceManager é projetada para simplificar o controle financeiro
 *(Aqui você pode adicionar screenshots da sua aplicação quando estiverem disponíveis)*
 
 **Exemplo de Tela de Lançamentos:**
-`[Placeholder para Screenshot da Tela de Lançamentos]`
+`![Screenshot_1](https://github.com/user-attachments/assets/53725c6a-4dd0-445e-ac08-fd1e3420f8c3)
+
 
 **Exemplo de Tela de Resumo Mensal:**
 `[Placeholder para Screenshot do Resumo Mensal]`
